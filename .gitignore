@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 #optional list of commands
-.commands.txt
+commands.txt
